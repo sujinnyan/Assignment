@@ -1,7 +1,5 @@
 # WDDM 115 - Assignment
 
-<<<<<<< HEAD
-=======
 # Git, Github Assignment
 
 ###1. Travel image

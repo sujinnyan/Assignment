@@ -193,7 +193,7 @@ img {
     .grid4 {
         grid-template-columns: repeat(2, 400px);
         row-gap: 16px;
-        padding-left: 48px;
+        padding-left: 40px;
         padding-right: 48px;
     }
 }

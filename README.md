@@ -1,7 +1,5 @@
 # WDDM 115 - Assignment
 
-<<<<<<< HEAD
-=======
 # Git, Github Assignment
 
 ###1. Travel image
@@ -13,6 +11,5 @@
 
 ![rolands-varsbergs-miKmVyq3qhE-unsplash](https://user-images.githubusercontent.com/97710314/154297133-f4fa5323-7679-49cb-b2d0-8203d3a13a78.jpg)
 
-###3. Travel image
 
-![KakaoTalk_Photo_2021-06-14-14-36-11-4](https://user-images.githubusercontent.com/97710314/154299118-400cb88d-c7b2-4a82-97a9-f53f82e6b69e.jpeg)
+

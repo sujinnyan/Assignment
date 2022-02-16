@@ -37,7 +37,7 @@ h1 {
 .grid {
     display: grid;
     margin-top: 2em;
-    column-gap: 16px;
+    column-gap: 14px;
     width: 100%;
     justify-content: center;
 

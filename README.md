@@ -11,4 +11,3 @@
 ![rolands-varsbergs-miKmVyq3qhE-unsplash](https://user-images.githubusercontent.com/97710314/154297133-f4fa5323-7679-49cb-b2d0-8203d3a13a78.jpg)
 
 
-###3. Travel image

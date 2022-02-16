@@ -194,7 +194,7 @@ img {
         grid-template-columns: repeat(2, 400px);
         row-gap: 16px;
         padding-left: 48px;
-        padding-right: 48px;
+        padding-right: 50px;
     }
 }
 

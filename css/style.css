@@ -17,7 +17,7 @@
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 55px;
     width: 750px;
     line-height: 56px;
     text-align: center;
@@ -37,7 +37,7 @@ h1 {
 .grid {
     display: grid;
     margin-top: 2em;
-    column-gap: 16px;
+    column-gap: 14px;
     width: 100%;
     justify-content: center;
 
@@ -87,7 +87,7 @@ h1 {
 }
 
 .grid3 {
-    background-color: #00897B;
+    background-color: #00895B;
     color: #fff;
 }
 
@@ -100,7 +100,7 @@ h1 {
 .content > .p2 {
     font-size: 16px;
     color: rgba(0,0,0, .5);
-    padding-top: 8px;
+    padding-top: 10px;
 }
 
 .grid2> .p2, .grid3> .p2 {
@@ -175,7 +175,7 @@ h3 {
 img {
     display: block;
     position: relative;
-    width: 100%;
+    width: 98%;
     height: 100%;
 }
 
